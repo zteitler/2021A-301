@@ -90,24 +90,12 @@ By the end of this course, students will be able to:
 
 
 
-## Textbook
-
-### Required textbook
+## Required Textbook
 
 **Linear Algebra**, by Jim Hefferon, <https://hefferon.net/linearalgebra/>
 
 This book is available as a free PDF and also on paper (not free, but inexpensive).
 
-
-### Additional texts
-
-You do not need any textbooks besides the required one.
-But if you want to supplement with an additional text, I recommend:
-
-**A First Course in Linear Algebra**, by Beezer, <http://linear.ups.edu>
-
-You are welcome to use any book you like, including other free books available online,
-from the library, or from previous classes you may have taken.
 
 
 
@@ -124,31 +112,59 @@ Weights will be as follows:
 | ---
 | Category | Weight |
 | :--- | :--- |
-| Midterm 1 | 25% |
-| Midterm 2 | 25% |
-| Final Exam | 25% |
-| Homework | 25% |
+| Midterm 1 | 20% |
+| Midterm 2 | 20% |
+| Final Exam | 20% |
+| Homework | 15% |
+| Quizzes | 15% |
+| Presentations | 10% |
 | ---
 
 
 
 ### Midterm and final exams
 
-Midterm exams will be in the 6th and 11th weeks, exact schedule TBD.
-The formats will be announced later.
+Midterm exams will be take-home exams,
+due in the 5th and 9th weeks on Thursday.
+The final exam will have both a take-home component
+and also an "in-class" component.
+
+| ---
+| Exam | Due Date |
+| :--- | :--- |
+| Midterm 1 | 2/11/21 |
+| Midterm 2 | 3/11/21 |
+| Final (take-home) | 5/4/21 |
+| Final (in-class) | 5/5/21 (12:00 p.m.-2:00 p.m.) |
+| ---
 
 
 
 ### Homework
 
-You are encouraged to work collaboratively on homework but you must turn in your own solutions.
+You are encouraged to work collaboratively on homework.
 
 
+### Quizzes
 
-### Online homework
+Short quizzes will be every 1--2 weeks.
 
-Homework submissions and grading will be paperless.
-Homework will use WeBWorK and/or GradeScope.
+
+### Presentations
+
+Students will make group presentations of a chosen topic.
+The list of topics will be from sections of the textbook that aren't covered in class;
+each group will choose what topic they want to present.
+The groups will have 5 students,
+who work together to make a 5 minute video presentation about their topic.
+The first presentation will be due in week 7 (February 22-26)
+and the second presentation will be due in week 14 (April 19-23).
+
+
+### Online work
+
+Submissions and grading for homework, quizzes, and take-home exams will be paperless,
+using WeBWorK and/or GradeScope.
 
 
 
@@ -212,6 +228,7 @@ or if there's anything you think I should know.
 | Friday | 3/19 | Last day to drop with a W or completely withdraw |
 |        | 4/12-16 | Spring Break. No classes. |
 | Friday | 4/30 | Last day of instruction for regular classes |
+| Wednesday | 5/5 | Final Exam, 12:00 p.m.-2:00 p.m. |
 | Tuesday | 5/11 | Grades due. (You will be able to see your grade by this date.) |
 
 
