@@ -167,6 +167,20 @@ Submissions and grading for homework, quizzes, and take-home exams will be paper
 using WeBWorK and/or GradeScope.
 
 
+### Attendance
+
+Class attendance will be optional, not required, and not graded.
+On the other hand it is *highly recommended*.
+Attending class has many benefits such as:
+
++ Opportunities to ask questions and get immediate feedback (and then, ask followup questions)
+
++ Establish relationships with other students and with the instructor
+  (might be helpful in case you decide to look for a study group,
+  or research opportunities or a letter of recommendation)
+
++ Spend part of class time working together on the homework
+
 
 
 ## Help
@@ -181,8 +195,8 @@ for clarifying class topics or for enrichment
 You are allowed to use things that you learn from a book, online source,
 or person outside the class
 that *help you and your classmates to find your own solution* for a problem.
-However, if you read a full solution, so that there's little or nothing left for you
-and your classmates to figure out,
+However, if you read a full solution, so that there's little or  left for you
+and your classmates to figure out,nothing
 then you *may not turn in that solution for credit*.
 
 
