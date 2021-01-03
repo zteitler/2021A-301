@@ -15,3 +15,5 @@ linear transformations, least squares, and numerical techniques.
 
 
 ### [Syllabus](syllabus)
+
+### [Resources](resources)
