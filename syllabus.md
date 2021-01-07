@@ -115,9 +115,8 @@ Weights will be as follows:
 | Midterm 1 | 20% |
 | Midterm 2 | 20% |
 | Final Exam | 20% |
-| Homework | 15% |
-| Quizzes | 15% |
-| Presentations | 10% |
+| Homework | 20% |
+| Quizzes | 20% |
 | ---
 
 
@@ -150,15 +149,6 @@ You are encouraged to work collaboratively on homework.
 Short quizzes will be every 1--2 weeks.
 
 
-### Presentations
-
-Students will make group presentations of a chosen topic.
-The list of topics will be from sections of the textbook that aren't covered in class;
-each group will choose what topic they want to present.
-The groups will have 5 students,
-who work together to make a 5 minute video presentation about their topic.
-The first presentation will be due in week 7 (February 22-26)
-and the second presentation will be due in week 14 (April 19-23).
 
 
 ### Online work
