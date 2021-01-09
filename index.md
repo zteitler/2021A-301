@@ -17,4 +17,6 @@ linear transformations, least squares, and numerical techniques.
 
 ### [Syllabus](syllabus)
 
+### [WeBWorK](https://zeno.boisestate.edu/webwork2/)
+
 ### [Resources](resources)
