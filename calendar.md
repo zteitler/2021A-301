@@ -5,10 +5,12 @@ title: Calendar
 
 ## Calendar
 
-| Date | Topic | Section |
-| :--- | :--- | :--- |
+| Date | Topic | Section | Notes |
+| :--- | :--- | :--- | :--- |
 | Monday, January 11 | First day of class. Introduction to linear algebra. Linear systems, Gauss's method | One.I.1 |
+| | [Note January 11, 2021.pdf](https://drive.google.com/file/d/13vEniYEGUEkZZe1h_gIFLQ3kOBp2anWA/view?usp=sharing) | |
 | Wednesday, January 13 | Gauss's method. Describing the solution set. Vectors. | One.I.2 |
+| | [Note January 13, 2021.pdf](https://drive.google.com/file/d/14BkMdGp8lbXmGSbVws9iF7wDC9nkE78v/view?usp=sharing) | |
 | Monday, January 18 | Dr. Martin Luther King Jr./Idaho Human Rights Day. No classes. | |
 | Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
 | Monday, January 25 | TBA |
