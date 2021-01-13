@@ -9,15 +9,15 @@ title: Calendar
 | :--- | :--- | :--- |
 | Monday, January 11 | First day of class. Introduction to linear algebra. Linear systems, Gauss's method | One.I.1 |
 | Wednesday, January 13 | Gauss's method. Describing the solution set. Vectors. | One.I.2 |
-| Monday, January 18 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
-| Wednesday, January 20 | TBA |
+| Monday, January 18 | Dr. Martin Luther King Jr./Idaho Human Rights Day. No classes. | |
+| Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
 | Monday, January 25 | TBA |
 | Wednesday, January 27 | TBA |
 | Monday, February 1 | TBA |
 | Wednesday, February 3 | TBA |
 | Monday, February 8 | TBA |
 | Wednesday, February 10 | TBA |
-| Monday, February 15 | TBA |
+| Monday, February 15 | Presidents’ Day. No classes. | |
 | Wednesday, February 17 | TBA |
 | Monday, February 22 | TBA |
 | Wednesday, February 24 | TBA |
