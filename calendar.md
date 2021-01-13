@@ -8,8 +8,8 @@ title: Calendar
 | Date | Topic | Section |
 | :--- | :--- | :--- |
 | Monday, January 11 | First day of class. Introduction to linear algebra. Linear systems, Gauss's method | One.I.1 |
-| Wednesday, January 13 | TBA |
-| Monday, January 18 | TBA |
+| Wednesday, January 13 | Gauss's method. Describing the solution set. Vectors. | One.I.2 |
+| Monday, January 18 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
 | Wednesday, January 20 | TBA |
 | Monday, January 25 | TBA |
 | Wednesday, January 27 | TBA |
