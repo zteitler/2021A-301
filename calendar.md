@@ -13,7 +13,8 @@ title: Calendar
 | | [Note January 13, 2021.pdf](https://drive.google.com/file/d/14BkMdGp8lbXmGSbVws9iF7wDC9nkE78v/view?usp=sharing) | |
 | Monday, January 18 | Dr. Martin Luther King Jr./Idaho Human Rights Day. No classes. | |
 | Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
-| Monday, January 25 | TBA |
+| | [Note January 20, 2021.pdf](https://drive.google.com/file/d/1a4_fi8QtjeExcHG-BNptsocsMoXPsUB3/view?usp=sharing) | |
+| Monday, January 25 | Linear geometry. Reduced row echelon form. | One.II, One.III |
 | Wednesday, January 27 | TBA |
 | Monday, February 1 | TBA |
 | Wednesday, February 3 | TBA |
