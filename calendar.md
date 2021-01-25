@@ -15,6 +15,7 @@ title: Calendar
 | Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
 | | [Note January 20, 2021.pdf](https://drive.google.com/file/d/1a4_fi8QtjeExcHG-BNptsocsMoXPsUB3/view?usp=sharing) | |
 | Monday, January 25 | Linear geometry. Reduced row echelon form. | One.II, One.III |
+| | [Note January 25, 2021.pdf](https://drive.google.com/file/d/1h5qNBm8kyK7EVIZ9EUoI38iQyHVOInQd/view?usp=sharing) | |
 | Wednesday, January 27 | TBA |
 | Monday, February 1 | TBA |
 | Wednesday, February 3 | TBA |
