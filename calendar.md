@@ -17,6 +17,7 @@ title: Calendar
 | Monday, January 25 | Linear geometry. | One.II |
 | | [Note January 25, 2021.pdf](https://drive.google.com/file/d/1h5qNBm8kyK7EVIZ9EUoI38iQyHVOInQd/view?usp=sharing) | |
 | Wednesday, January 27 | Cauchy-Schwarz inequality. Reduced row echelon form. | One.III |
+| | [Note January 27, 2021.pdf](https://drive.google.com/file/d/1q16xaCQ_YHzJkJGZEHPqOjpqPzXabvu7/view?usp=sharing) | |
 | Monday, February 1 | Vector spaces, subspaces, span | Two.I |
 | Wednesday, February 3 | Linear independence | Two.II |
 | Monday, February 8 | TBA |
