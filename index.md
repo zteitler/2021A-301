@@ -22,3 +22,5 @@ linear transformations, least squares, and numerical techniques.
 ### [WeBWorK](https://zeno.boisestate.edu/webwork2/)
 
 ### [Resources](resources)
+
+### [FAQ](faq)
