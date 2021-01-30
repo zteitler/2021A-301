@@ -3,7 +3,7 @@ email: "zteitler@boisestate.edu"
 author: Zach Teitler
 description: >-
   Course site for Math 301, Spring 2021, at Boise State University,
-  taught by [Zach Teitler](https://zteitler.github.io)
+  taught by Zach Teitler
 url: "https://zteitler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/2021A-301" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
