@@ -13,9 +13,9 @@ title: Calendar
 | Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 | [Jan 20](https://drive.google.com/file/d/1a4_fi8QtjeExcHG-BNptsocsMoXPsUB3/view?usp=sharing) |
 | Monday, January 25 | Linear geometry. | One.II | [Jan 25](https://drive.google.com/file/d/1h5qNBm8kyK7EVIZ9EUoI38iQyHVOInQd/view?usp=sharing) |
 | Wednesday, January 27 | Cauchy-Schwarz inequality. Reduced row echelon form. | One.III | [Jan 27](https://drive.google.com/file/d/1q16xaCQ_YHzJkJGZEHPqOjpqPzXabvu7/view?usp=sharing) |
-| Monday, February 1 | Vector spaces, subspaces, span | Two.I | [Feb 1](https://drive.google.com/file/d/15vWU2ok6yvSFCkD5OOidjBdfoCBs4ghF/view?usp=sharing) |
-| Wednesday, February 3 | Linear independence | Two.II |
-| Monday, February 8 | TBA |
+| Monday, February 1 | Vector spaces, subspaces | Two.I | [Feb 1](https://drive.google.com/file/d/15vWU2ok6yvSFCkD5OOidjBdfoCBs4ghF/view?usp=sharing) |
+| Wednesday, February 3 | Subspaces, span | Two.I | [Feb 3](https://drive.google.com/file/d/1q4QZD1U4uKa2IyTIjHXUFHrS-K_uOr2u/view?usp=sharing) |
+| Monday, February 8 | Linear independence | Two.II |
 | Wednesday, February 10 | TBA |
 | Monday, February 15 | Presidents’ Day. No classes. | |
 | Wednesday, February 17 | TBA |
