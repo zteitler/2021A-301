@@ -7,19 +7,13 @@ title: Calendar
 
 | Date | Topic | Section | Notes |
 | :--- | :--- | :--- | :--- |
-| Monday, January 11 | First day of class. Introduction to linear algebra. Linear systems, Gauss's method | One.I.1 |
-| | [Note January 11, 2021.pdf](https://drive.google.com/file/d/13vEniYEGUEkZZe1h_gIFLQ3kOBp2anWA/view?usp=sharing) | |
-| Wednesday, January 13 | Gauss's method. Describing the solution set. Vectors. | One.I.2 |
-| | [Note January 13, 2021.pdf](https://drive.google.com/file/d/14BkMdGp8lbXmGSbVws9iF7wDC9nkE78v/view?usp=sharing) | |
+| Monday, January 11 | First day of class. Introduction to linear algebra. Linear systems, Gauss's method | One.I.1 | [Jan 11](https://drive.google.com/file/d/13vEniYEGUEkZZe1h_gIFLQ3kOBp2anWA/view?usp=sharing) |
+| Wednesday, January 13 | Gauss's method. Describing the solution set. Vectors. | One.I.2 | [Jan 13](https://drive.google.com/file/d/14BkMdGp8lbXmGSbVws9iF7wDC9nkE78v/view?usp=sharing) |
 | Monday, January 18 | Dr. Martin Luther King Jr./Idaho Human Rights Day. No classes. | |
-| Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 |
-| | [Note January 20, 2021.pdf](https://drive.google.com/file/d/1a4_fi8QtjeExcHG-BNptsocsMoXPsUB3/view?usp=sharing) | |
-| Monday, January 25 | Linear geometry. | One.II |
-| | [Note January 25, 2021.pdf](https://drive.google.com/file/d/1h5qNBm8kyK7EVIZ9EUoI38iQyHVOInQd/view?usp=sharing) | |
-| Wednesday, January 27 | Cauchy-Schwarz inequality. Reduced row echelon form. | One.III |
-| | [Note January 27, 2021.pdf](https://drive.google.com/file/d/1q16xaCQ_YHzJkJGZEHPqOjpqPzXabvu7/view?usp=sharing) | |
-| Monday, February 1 | Vector spaces, subspaces, span | Two.I |
-| | [Note February 1, 2021.pdf](https://drive.google.com/file/d/15vWU2ok6yvSFCkD5OOidjBdfoCBs4ghF/view?usp=sharing) | |
+| Wednesday, January 20 | Particular and homogeneous solutions. Linear geometry. | One.I.3, One.II.1-2 | [Jan 20](https://drive.google.com/file/d/1a4_fi8QtjeExcHG-BNptsocsMoXPsUB3/view?usp=sharing) |
+| Monday, January 25 | Linear geometry. | One.II | [Jan 25](https://drive.google.com/file/d/1h5qNBm8kyK7EVIZ9EUoI38iQyHVOInQd/view?usp=sharing) |
+| Wednesday, January 27 | Cauchy-Schwarz inequality. Reduced row echelon form. | One.III | [Jan 27](https://drive.google.com/file/d/1q16xaCQ_YHzJkJGZEHPqOjpqPzXabvu7/view?usp=sharing) |
+| Monday, February 1 | Vector spaces, subspaces, span | Two.I | [Feb 1](https://drive.google.com/file/d/15vWU2ok6yvSFCkD5OOidjBdfoCBs4ghF/view?usp=sharing) |
 | Wednesday, February 3 | Linear independence | Two.II |
 | Monday, February 8 | TBA |
 | Wednesday, February 10 | TBA |
