@@ -16,11 +16,11 @@ title: Calendar
 | Monday, February 1 | Vector spaces, subspaces | Two.I | [Feb 1](https://drive.google.com/file/d/15vWU2ok6yvSFCkD5OOidjBdfoCBs4ghF/view?usp=sharing) |
 | Wednesday, February 3 | Subspaces, span | Two.I | [Feb 3](https://drive.google.com/file/d/1q4QZD1U4uKa2IyTIjHXUFHrS-K_uOr2u/view?usp=sharing) |
 | Monday, February 8 | Linear independence | Two.II | [Feb 8](https://drive.google.com/file/d/1q9X_HpTpE2jmr_ZQ6O4wGkSjV-dhU3BL/view?usp=sharing) |
-| Wednesday, February 10 | TBA |
+| Wednesday, February 10 | Bases. Matrix rank | Two.III | [Feb 10](https://drive.google.com/file/d/1qDB-usSVAyhs0GKZRWh8r1yegImI5Kml/view?usp=sharing) |
 | Monday, February 15 | Presidents’ Day. No classes. | |
-| Wednesday, February 17 | TBA |
-| Monday, February 22 | TBA |
-| Wednesday, February 24 | TBA |
+| Wednesday, February 17 | Maps between spaces: Isomorphism | Three.I |
+| Monday, February 22 | Homomorphisms | Three.II |
+| Wednesday, February 24 | Range and null space | Three.II |
 | Monday, March 1 | TBA |
 | Wednesday, March 3 | TBA |
 | Monday, March 8 | TBA |
