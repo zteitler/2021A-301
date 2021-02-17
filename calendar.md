@@ -18,7 +18,7 @@ title: Calendar
 | Monday, February 8 | Linear independence | Two.II | [Feb 8](https://drive.google.com/file/d/1q9X_HpTpE2jmr_ZQ6O4wGkSjV-dhU3BL/view?usp=sharing) |
 | Wednesday, February 10 | Bases. Matrix rank | Two.III | [Feb 10](https://drive.google.com/file/d/1qDB-usSVAyhs0GKZRWh8r1yegImI5Kml/view?usp=sharing) |
 | Monday, February 15 | Presidents’ Day. No classes. | |
-| Wednesday, February 17 | Maps between spaces: Isomorphism | Three.I |
+| Wednesday, February 17 | Maps between spaces: Isomorphism | Three.I | [Feb 17](https://drive.google.com/file/d/1qWjqZCgZJQQo3amVsksRmVdD96kwuYsz/view?usp=sharing) |
 | Monday, February 22 | Homomorphisms | Three.II |
 | Wednesday, February 24 | Range and null space | Three.II |
 | Monday, March 1 | TBA |
