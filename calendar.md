@@ -20,9 +20,9 @@ title: Calendar
 | Monday, February 15 | Presidents’ Day. No classes. | |
 | Wednesday, February 17 | Maps between spaces: Isomorphism | Three.I | [Feb 17](https://drive.google.com/file/d/1qWjqZCgZJQQo3amVsksRmVdD96kwuYsz/view?usp=sharing) |
 | Monday, February 22 | Review. Isomorphism | Three.I | [Feb 22](https://drive.google.com/file/d/1qajBAqyEoZT8xFqGmEqU966RljcP-E1C/view?usp=sharing) |
-| Wednesday, February 24 | Homomorphisms | Three.II |
-| Monday, March 1 | Range and null space. Computing linear maps | Three.II-III |
-| Wednesday, March 3 | TBA |
+| Wednesday, February 24 | Homomorphisms | Three.II | [Feb 24](https://drive.google.com/file/d/1qf_Vu-Z9i8is-qgXgOvZu6jxgUQzTPRD/view?usp=sharing) |
+| Monday, March 1 | Range and null space. Homework. | Three.II |
+| Wednesday, March 3 | Computing linear maps. Matrix operations. | Three.III-IV |
 | Monday, March 8 | TBA |
 | Wednesday, March 10 | TBA |
 | Monday, March 15 | TBA |
