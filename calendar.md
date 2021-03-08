@@ -23,8 +23,8 @@ title: Calendar
 | Wednesday, February 24 | Homomorphisms | Three.II | [Feb 24](https://drive.google.com/file/d/1qf_Vu-Z9i8is-qgXgOvZu6jxgUQzTPRD/view?usp=sharing) |
 | Monday, March 1 | Range and null space. Homework. | Three.II | [Mar 1](https://drive.google.com/file/d/1r6jkD9-uCMpqg6vanh5sJ9nDG8OG7SCF/view?usp=sharing) |
 | Wednesday, March 3 | Computing linear maps. | Three.III | [Mar 3](https://drive.google.com/file/d/1rIefVIfQqCxoCeVBj4wjoJWUDUPqikn8/view?usp=sharing) |
-| Monday, March 8 | Matrix operations. Homework. | Three.IV |
-| Wednesday, March 10 | TBA |
+| Monday, March 8 | Matrix operations. | Three.IV | [Mar 8](https://drive.google.com/file/d/1rQROKei45v4F2NL5WGGUgTk6-rHECebu/view?usp=sharing) |
+| Wednesday, March 10 | Matrix operations. Inverse matrices. |
 | Monday, March 15 | TBA |
 | Wednesday, March 17 | TBA |
 | Monday, March 22 | TBA |
