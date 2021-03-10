@@ -24,7 +24,7 @@ title: Calendar
 | Monday, March 1 | Range and null space. Homework. | Three.II | [Mar 1](https://drive.google.com/file/d/1r6jkD9-uCMpqg6vanh5sJ9nDG8OG7SCF/view?usp=sharing) |
 | Wednesday, March 3 | Computing linear maps. | Three.III | [Mar 3](https://drive.google.com/file/d/1rIefVIfQqCxoCeVBj4wjoJWUDUPqikn8/view?usp=sharing) |
 | Monday, March 8 | Matrix operations. | Three.IV | [Mar 8](https://drive.google.com/file/d/1rQROKei45v4F2NL5WGGUgTk6-rHECebu/view?usp=sharing) |
-| Wednesday, March 10 | Matrix operations. Inverse matrices. |
+| Wednesday, March 10 | Matrix multiplication. | | [Mar 10](https://drive.google.com/file/d/1-EqIsQtqA9n4CySIgBc679sOprXsM0oq/view?usp=sharing) |
 | Monday, March 15 | TBA |
 | Wednesday, March 17 | TBA |
 | Monday, March 22 | TBA |
