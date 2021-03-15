@@ -25,12 +25,12 @@ title: Calendar
 | Wednesday, March 3 | Computing linear maps. | Three.III | [Mar 3](https://drive.google.com/file/d/1rIefVIfQqCxoCeVBj4wjoJWUDUPqikn8/view?usp=sharing) |
 | Monday, March 8 | Matrix operations. | Three.IV | [Mar 8](https://drive.google.com/file/d/1rQROKei45v4F2NL5WGGUgTk6-rHECebu/view?usp=sharing) |
 | Wednesday, March 10 | Matrix multiplication. | | [Mar 10](https://drive.google.com/file/d/1-EqIsQtqA9n4CySIgBc679sOprXsM0oq/view?usp=sharing) |
-| Monday, March 15 | TBA |
-| Wednesday, March 17 | TBA |
-| Monday, March 22 | TBA |
-| Wednesday, March 24 | TBA |
-| Monday, March 22 | TBA |
-| Wednesday, March 24 | TBA |
+| Monday, March 15 | Matrix inverses. Homework. |
+| Wednesday, March 17 | More about matrix multiplication |
+| Monday, March 22 | Change of Basis | Three.V |
+| Wednesday, March 24 | Projections | Three.VI |
+| Monday, March 22 | TBA | Determinants | Four.I |
+| Wednesday, March 24 | Determinants | Four.II |
 | Monday, March 29 | TBA |
 | Wednesday, March 31 | TBA |
 | Monday, April 5 | TBA |
