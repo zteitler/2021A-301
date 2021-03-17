@@ -26,12 +26,12 @@ title: Calendar
 | Monday, March 8 | Matrix operations. | Three.IV | [Mar 8](https://drive.google.com/file/d/1rQROKei45v4F2NL5WGGUgTk6-rHECebu/view?usp=sharing) |
 | Wednesday, March 10 | Matrix multiplication. | | [Mar 10](https://drive.google.com/file/d/1-EqIsQtqA9n4CySIgBc679sOprXsM0oq/view?usp=sharing) |
 | Monday, March 15 | Matrix inverses. Homework. | | [Mar 15](https://drive.google.com/file/d/16AgWd7tT72x7RZ9M0oi3iooiCzRqi-Ra/view?usp=sharing) |
-| Wednesday, March 17 | More about matrix multiplication |
-| Monday, March 22 | Change of Basis | Three.V |
-| Wednesday, March 24 | Projections | Three.VI |
-| Monday, March 22 | TBA | Determinants | Four.I |
-| Wednesday, March 24 | Determinants | Four.II |
-| Monday, March 29 | TBA |
+| Wednesday, March 17 | More about matrix multiplication | | [Mar 17](https://drive.google.com/file/d/1-LHrpWb8UtmM945oFkoiqk_gWvsdZieC/view?usp=sharing) |
+| Monday, March 22 | LU decomposition. Fibonacci numbers. Homework. |
+| Wednesday, March 24 | Change of Basis | Three.V |
+| Monday, March 22 | TBA | Projections | Three.VI |
+| Wednesday, March 24 | Determinants | Four.I |
+| Monday, March 29 | Determinants | Four.II |
 | Wednesday, March 31 | TBA |
 | Monday, April 5 | TBA |
 | Wednesday, April 7 | TBA |
