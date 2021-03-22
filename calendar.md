@@ -29,10 +29,8 @@ title: Calendar
 | Wednesday, March 17 | More about matrix multiplication | | [Mar 17](https://drive.google.com/file/d/1-LHrpWb8UtmM945oFkoiqk_gWvsdZieC/view?usp=sharing) |
 | Monday, March 22 | LU decomposition. Fibonacci numbers. Homework. |
 | Wednesday, March 24 | Change of Basis | Three.V |
-| Monday, March 22 | TBA | Projections | Three.VI |
-| Wednesday, March 24 | Determinants | Four.I |
-| Monday, March 29 | Determinants | Four.II |
-| Wednesday, March 31 | TBA |
+| Monday, March 29 | Projections | Three.VI |
+| Wednesday, March 31 | Determinants | Four.I |
 | Monday, April 5 | TBA |
 | Wednesday, April 7 | TBA |
 | Monday, April 12 | No meeting (Spring Break) |
