@@ -28,7 +28,7 @@ title: Calendar
 | Monday, March 15 | Matrix inverses. Homework. | | [Mar 15](https://drive.google.com/file/d/16AgWd7tT72x7RZ9M0oi3iooiCzRqi-Ra/view?usp=sharing) |
 | Wednesday, March 17 | More about matrix multiplication | | [Mar 17](https://drive.google.com/file/d/1-LHrpWb8UtmM945oFkoiqk_gWvsdZieC/view?usp=sharing) |
 | Monday, March 22 | LU decomposition. Fibonacci numbers. Homework. | | [Mar 22](https://drive.google.com/file/d/1-hnqy2f5BwubXIWiLdnqWjY8TAn2iINN/view?usp=sharing) |
-| Wednesday, March 24 | Change of Basis | Three.V |
+| Wednesday, March 24 | Change of Basis | Three.V | [Mar 24](https://drive.google.com/file/d/1-myzGf3wvHC3y6n800NWiGq1XjCBiyrz/view?usp=sharing) |
 | Monday, March 29 | Projections | Three.VI |
 | Wednesday, March 31 | Determinants | Four.I |
 | Monday, April 5 | TBA |
