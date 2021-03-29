@@ -29,9 +29,9 @@ title: Calendar
 | Wednesday, March 17 | More about matrix multiplication | | [Mar 17](https://drive.google.com/file/d/1-LHrpWb8UtmM945oFkoiqk_gWvsdZieC/view?usp=sharing) |
 | Monday, March 22 | LU decomposition. Fibonacci numbers. Homework. | | [Mar 22](https://drive.google.com/file/d/1-hnqy2f5BwubXIWiLdnqWjY8TAn2iINN/view?usp=sharing) |
 | Wednesday, March 24 | Change of Basis | Three.V | [Mar 24](https://drive.google.com/file/d/1-myzGf3wvHC3y6n800NWiGq1XjCBiyrz/view?usp=sharing) |
-| Monday, March 29 | Projections | Three.VI |
-| Wednesday, March 31 | Determinants | Four.I |
-| Monday, April 5 | TBA |
+| Monday, March 29 | Projections | Three.VI | [Mar 29](https://drive.google.com/file/d/1-v2MK1G3RB1TPZH7iHUm2PgWrzX_5upc/view?usp=sharing) |
+| Wednesday, March 31 | Gram-Schmidt, line of closest fit. Determinants | Four.I |
+| Monday, April 5 | Determinants | Four.I |
 | Wednesday, April 7 | TBA |
 | Monday, April 12 | No meeting (Spring Break) |
 | Wednesday, April 14 | No meeting (Spring Break) |
