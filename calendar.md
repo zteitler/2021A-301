@@ -35,7 +35,7 @@ title: Calendar
 | Wednesday, April 7 | Determinants | Four.I | [Apr 7](https://drive.google.com/file/d/106NPLrcBDJa5CcXiGO8LMRjdbMTvIs6d/view?usp=sharing) |
 | Monday, April 12 | No meeting (Spring Break) |
 | Wednesday, April 14 | No meeting (Spring Break) |
-| Monday, April 19 | Eigenvalues |
+| Monday, April 19 | Similarity. Eigenvalues | | [Apr 19](https://drive.google.com/file/d/10HRFABsIDya3DlEtKt9DcsSCunDaCrAs/view?usp=sharing) |
 | Wednesday, April 21 | Eigenvalues |
 | Monday, April 26 | TBA (SVD?). Review. |
 | Wednesday, April 28 | TBA |
