@@ -36,7 +36,7 @@ title: Calendar
 | Monday, April 12 | No meeting (Spring Break) |
 | Wednesday, April 14 | No meeting (Spring Break) |
 | Monday, April 19 | Similarity. Eigenvalues | | [Apr 19](https://drive.google.com/file/d/10HRFABsIDya3DlEtKt9DcsSCunDaCrAs/view?usp=sharing) |
-| Wednesday, April 21 | Eigenvalues |
+| Wednesday, April 21 | Eigenvalues | | [Apr 21](https://drive.google.com/file/d/10OFFz91Fj9Uv49KYeV7VPgDLuNQtnoh6/view?usp=sharing) |
 | Monday, April 26 | TBA (SVD?). Review. |
 | Wednesday, April 28 | TBA |
 | Wednesday, May 5 | Final exam |
