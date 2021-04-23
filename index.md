@@ -24,3 +24,5 @@ linear transformations, least squares, and numerical techniques.
 ### [Resources](resources)
 
 ### [FAQ](faq)
+
+### [Final Exam info](finalexam)
