@@ -104,6 +104,12 @@ However you are not being required to spend a huge amount of time on this,
 because each exam part should take around one hour, more or less.
 It is my hope that they will not have an unfair impact on your study time for your other classes.
 
+[Note: On Quiz 5, there is a question about time limits.
+It has two choices: the exam has time limits, the exam doesn't have time limits.
+In the quiz you should choose the option that says "Has no time limit (only due dates)".
+But no matter which option you choose, I'll give you credit for this question.
+The question was badly written--there should have been three choices: both parts have time limits,
+neither part has time limits, one part does and the other part doesn't.]
 
 
 ## Using WebWork
