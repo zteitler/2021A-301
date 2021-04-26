@@ -31,12 +31,14 @@ title: Calendar
 | Wednesday, March 24 | Change of Basis | Three.V | [Mar 24](https://drive.google.com/file/d/1-myzGf3wvHC3y6n800NWiGq1XjCBiyrz/view?usp=sharing) |
 | Monday, March 29 | Projections | Three.VI | [Mar 29](https://drive.google.com/file/d/1-v2MK1G3RB1TPZH7iHUm2PgWrzX_5upc/view?usp=sharing) |
 | Wednesday, March 31 | Gram-Schmidt, line of closest fit | Four.I | [Mar 31](https://drive.google.com/file/d/1-yBsqH-i6LmU8O6pfoj7nI2bswXDNosX/view?usp=sharing), [Projection and best fit Sage notebook](https://drive.google.com/file/d/1-wXMr13I1S1TEPmrFv_8YPJq_iTU87S3/view?usp=sharing) |
-| Monday, April 5 | Gram-Schmidt, QR factorization | [Apr 5](https://drive.google.com/file/d/1020eOA4VPweiWYrPBdRsWcxeXh-VsJsD/view?usp=sharing) |
+| Monday, April 5 | Gram-Schmidt, QR factorization | | [Apr 5](https://drive.google.com/file/d/1020eOA4VPweiWYrPBdRsWcxeXh-VsJsD/view?usp=sharing) |
 | Wednesday, April 7 | Determinants | Four.I | [Apr 7](https://drive.google.com/file/d/106NPLrcBDJa5CcXiGO8LMRjdbMTvIs6d/view?usp=sharing) |
 | Monday, April 12 | No meeting (Spring Break) |
 | Wednesday, April 14 | No meeting (Spring Break) |
 | Monday, April 19 | Similarity. Eigenvalues | | [Apr 19](https://drive.google.com/file/d/10HRFABsIDya3DlEtKt9DcsSCunDaCrAs/view?usp=sharing) |
 | Wednesday, April 21 | Eigenvalues | | [Apr 21](https://drive.google.com/file/d/10OFFz91Fj9Uv49KYeV7VPgDLuNQtnoh6/view?usp=sharing) |
-| Monday, April 26 | TBA (SVD?). Review. |
-| Wednesday, April 28 | TBA |
-| Wednesday, May 5 | Final exam |
+| Monday, April 26 | Topics on orthogonal matrices. Review. | | [Apr 26](https://drive.google.com/file/d/10hhZOIjUuXEreT4QOXhwq-0tbipm7PwW/view?usp=sharing) |
+| Wednesday, April 28 | SVD. Review. | | |
+| Friday, April 30 | Final exam, take-home part opens | | |
+| Tuesday, May 4 | Final exam, take-home due (11:59pm) | | |
+| Wednesday, May 5 | Final exam, in-class part, 12-2pm | | |
