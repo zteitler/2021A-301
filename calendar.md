@@ -38,7 +38,7 @@ title: Calendar
 | Monday, April 19 | Similarity. Eigenvalues | | [Apr 19](https://drive.google.com/file/d/10HRFABsIDya3DlEtKt9DcsSCunDaCrAs/view?usp=sharing) |
 | Wednesday, April 21 | Eigenvalues | | [Apr 21](https://drive.google.com/file/d/10OFFz91Fj9Uv49KYeV7VPgDLuNQtnoh6/view?usp=sharing) |
 | Monday, April 26 | Topics on orthogonal matrices. Review. | | [Apr 26](https://drive.google.com/file/d/10hhZOIjUuXEreT4QOXhwq-0tbipm7PwW/view?usp=sharing) |
-| Wednesday, April 28 | SVD. Review. | | |
+| Wednesday, April 28 | SVD. Review. | | [Apr 28](https://drive.google.com/file/d/10j5vEzb-sEme0V1HLyngQlSrVYTL3i5f/view?usp=sharing) |
 | Friday, April 30 | Final exam, take-home part opens | | |
 | Tuesday, May 4 | Final exam, take-home due (11:59pm) | | |
 | Wednesday, May 5 | Final exam, in-class part, 12-2pm | | |
